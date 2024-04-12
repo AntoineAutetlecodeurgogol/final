@@ -1,0 +1,61 @@
+/* Colors and fonts */
+body {
+    margin: 20px;
+    padding: 10px;
+    font-family: Arial;
+    background: linear-gradient(to right, white, #7DD0D7);
+}
+
+}
+
+header {
+    text-align: center;
+    padding: 20px 0;
+    font-family: Arial, sans-serif;
+    background: linear-gradient(to right, white, #3CE4D8);
+}
+
+div {
+    background-color: #ADD8E6;
+    text-align: center;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+div a {
+    text-decoration: none;
+    font-family: Arial;
+    color: #000000;
+    padding: 10px 20px;
+    margin: 0 10px;
+    border-radius: 20px;
+}
+.container {
+    background-color: #ADD8E6;
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    text-decoration: none;
+    color: #000000;
+    font-family: Arial;
+    box-shadow: 4px 5px 5px #572F33;
+}
+
+div a:hover {
+    background-color: #555;
+}
+
+main {
+    padding: 20px;
+    background: linear-gradient(to right, white, #000000);
+}
+.banner {
+    background-image: url('banner/image/Pinguin banner.jpg');
+    color: white;
+}
+
+.passion h2 {
+    color: #ADD8E6;
+}
+
+
